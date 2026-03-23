@@ -46,6 +46,10 @@
 # Idiom dan Frasa Umum
 * Ungkapan populer dan idiom dalam bahasa Inggris
 
+* subjek (it)
+* kata kerja bantu negatif (doesn't)
+* Kata kerja utama (require)
+* kata keterangan jumlah (cosh) 
 
 
 * tidak banyak memerlukan biaya.
