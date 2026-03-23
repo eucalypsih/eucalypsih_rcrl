@@ -37,6 +37,15 @@
 * Menjelaskan kata kerja, kata sifat, atau kata keterangan lain
 * Tempat, waktu, frekuensi, cara
 
+# Preposisi
+* Dalam, ke, dari, di atas, di bawah, di samping, dll.
+
+# Kalimat Pasif dan Aktif
+* Penggunaan kalimat aktif dan pasif
+
+# Idiom dan Frasa Umum
+* Ungkapan populer dan idiom dalam bahasa Inggris
+
 
 
 * tidak banyak memerlukan biaya.
