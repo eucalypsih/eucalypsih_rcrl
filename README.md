@@ -13,7 +13,7 @@
 * Perfect tense (Sudah selesai)
 
 # Kata Kerja (Verbs)
-* Kata kerja dasar (walk, eat, run)
+* Kata kerja dasar (base) = walk, eat, run
 * Kata kerja bantu (be, have, do)
 * Kata kerja tidak beraturan (go - went, see - saw)
 * Kata kerja modal (can, could, will, would, should)
@@ -47,9 +47,9 @@
 * Ungkapan populer dan idiom dalam bahasa Inggris
 
 * subjek (it)
-* kata kerja bantu negatif (doesn't)
-* Kata kerja utama (require)
-* kata keterangan jumlah (cosh) 
+* kata kerja bantu negatif = doesn't
+* Kata kerja utama (main) = require
+* kata keterangan jumlah = cosh
 
 
 * tidak banyak memerlukan biaya.
