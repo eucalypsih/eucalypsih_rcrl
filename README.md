@@ -1,4 +1,44 @@
 # eucalypsih_rcrl
+
+# Kata Ganti (Pronouns)
+* Kata ganti orang (I, you, he, she, it, we, they)
+* Kata ganti kepemilikan (mine, yours, his, hers, ours, theirs)
+* Kata ganti objek (me, you, him, her, us, them)
+
+# Tenses (Waktu dalam Kalimat)
+* Present tense (Sekarang)
+* Past tense (Lampau)
+* Future tense (Akan datang)
+* Continuous tense (Sedang berlangsung)
+* Perfect tense (Sudah selesai)
+
+# Kata Kerja (Verbs)
+* Kata kerja dasar (walk, eat, run)
+* Kata kerja bantu (be, have, do)
+* Kata kerja tidak beraturan (go - went, see - saw)
+* Kata kerja modal (can, could, will, would, should)
+
+# Kalimat dan Struktur Kalimat
+* Kalimat afirmatif, negatif, dan tanya
+* Penggunaan subjek, predikat, objek
+* Kalimat kompleks dan sederhana
+
+# Kata Benda (Nouns)
+* Kata benda umum dan khusus
+* Kata benda tunggal dan jamak
+* Kata benda abstrak dan konkret
+
+# Kata Sifat (Adjectives)
+* Penggunaan untuk mendeskripsikan benda/noun
+* Perbandingan (better, best)
+* Derivasi kata sifat
+
+# Kata Keterangan (Adverbs)
+* Menjelaskan kata kerja, kata sifat, atau kata keterangan lain
+* Tempat, waktu, frekuensi, cara
+
+
+
 * tidak banyak memerlukan biaya.
 * tidak memerlukan banyak biaya.
 * it doesn't require much cosh
@@ -6,6 +46,19 @@
 singular (myself, yourself, himself, herself, itself)
 (self-esteem, self-control)
 > buatkan diagram visual kecil yang menunjukkan hubungan “self” → myself / yourself / himself / themselves, sehingga lebih mudah diingat. Ini biasanya bikin belajar reflexive pronoun jadi super jelas.
+
+subjek=i
+word=myself
+ket
+
+subjek=it
+word=itself
+ket=Kata ini adalah bentuk refleksif dari "it".
+keg=Menunjukkan bahwa subjek dan objek adalah sama, biasanya untuk benda atau hewan.
+
+subjek=he
+word=himself
+keg=Menunjukkan bahwa tindakan dilakukan oleh subjek terhadap dirinya sendiri.
 
 > buatkan versi diagram super warna-warni yang benar-benar “eye-catchy” ala poster belajar bahasa Inggris, sehingga tinggal ditempel di dinding atau layar HP untuk menghafal reflexive pronouns dalam 5 detik.
 
