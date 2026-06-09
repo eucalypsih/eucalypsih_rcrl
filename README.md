@@ -87,7 +87,7 @@ keg=Menunjukkan bahwa tindakan dilakukan oleh subjek terhadap dirinya sendiri.
 
 > buatkan versi diagram di source code program python super warna-warni yang benar-benar “eye-catchy” ala poster belajar bahasa Inggris, sehingga tinggal di jalankan atau run HP untuk menghafal digunakan pronouns dalam 5 detik.
 
-bahasa sopan (Keigo)
+bahasa sopan (Keigo) 敬語
 
 tkinter-exclude
 ```python
