@@ -88,7 +88,9 @@ keg=Menunjukkan bahwa tindakan dilakukan oleh subjek terhadap dirinya sendiri.
 > buatkan versi diagram di source code program python super warna-warni yang benar-benar “eye-catchy” ala poster belajar bahasa Inggris, sehingga tinggal di jalankan atau run HP untuk menghafal digunakan pronouns dalam 5 detik.
 
 bahasa sopan (Keigo) 敬語
+
 Perubahan Kata Kerja Khusus (Tokushu Keigo)
+Beberapa kata kerja dasar memiliki perubahan kata yang sepenuhnya berbeda dan tidak mengikuti pola umum. Berikut adalah tabel perubahan kata kerja yang paling sering digunakan dalam dunia bisnis dan percakapan formal:
 
 tkinter-exclude
 ```python
