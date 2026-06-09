@@ -91,6 +91,22 @@ bahasa sopan (Keigo) 敬語
 
 Perubahan Kata Kerja Khusus (Tokushu Keigo)
 Beberapa kata kerja dasar memiliki perubahan kata yang sepenuhnya berbeda dan tidak mengikuti pola umum. Berikut adalah tabel perubahan kata kerja yang paling sering digunakan dalam dunia bisnis dan percakapan formal:
+Kata Kerja Dasar (Kihongo),Sonkeigo (Pelaku: Orang Lain),Kenjougo (Pelaku: Diri Sendiri),Arti
+Suru (する)
+Iku (行く) / Kuru (来る)
+Iru (いる)
+Taberu (食べる) / Nomu (飲む)
+Iu (言う)
+Miru (見る)
+Shiru (知る)
+Auru (会う)
+Kureru (くれる) / Ageru (あげる)
+
+
+
+
+
+
 
 tkinter-exclude
 ```python
